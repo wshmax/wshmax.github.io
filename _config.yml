@@ -1,7 +1,7 @@
 # Site settings
 title: Shuihu Blog
 SEOTitle: 水虎的博客 | shuihu Blog
-header-img: <a href="https://sm.ms/image/u9cSMnvUt4THOra" target="_blank"><img src="https://s2.loli.net/2023/06/02/u9cSMnvUt4THOra.jpg" /></a>
+header-img: https://s2.loli.net/2023/06/02/u9cSMnvUt4THOra.jpg
 email: 907293100@qq.com
 description: "这里是 @水虎 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的美术员"
 keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
